@@ -8,3 +8,6 @@ then prompts the user to guess it.
 
 It let's the user make as many guess as possible.
 
+
+It also prints the number of tries the user take to guess 
+the correct number.
