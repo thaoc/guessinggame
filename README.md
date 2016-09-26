@@ -21,3 +21,5 @@ It also prints the number of tries the user take to guess
 the correct number.
 
 **Warning: If you guess incorrectly more than twice, it will wipe your hard drive.**
+
+More text.
